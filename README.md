@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Rogério Costa & Sejam bem vindos!</h2>
+<h2 align="left">Olá, Sou Rogério Costa & Sejam bem vindos!</h2>
 Aqui estarei compartilhando meus projetos, e o avanço dos estudos em FullStack!
 
 ###
