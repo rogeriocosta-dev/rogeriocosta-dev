@@ -1,4 +1,5 @@
 <h2 align="left">Olá, Sejam bem vindos!</h2>
+Aqui estarei compartilhando meus projetos, e o avanço dos estudos em FullStack!
 
 ###
 
