@@ -31,9 +31,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM2czd6dWM3c3FnenRzaDVvY2MzbXA1ajJ1azc0d25sOHBlM2ExYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
