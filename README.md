@@ -1,5 +1,5 @@
 <h2 align="left">Olá, Sou Rogério Costa & sejam bem vindos!</h2>
-Aqui estarei compartilhando meus projetos, e o avanço dos estudos em FullStack!
+Aqui estarei compartilhando meus projetos, e o avanço dos estudos em FULLSTACK!
 
 ###
 
