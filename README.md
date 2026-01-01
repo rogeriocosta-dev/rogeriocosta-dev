@@ -1,7 +1,5 @@
 <h2 align="left">Olá, Sou Rogério Costa! Sejam BEM VINDOS!</h2>
-Aqui estarei compartilhando meus projetos, e o avanço dos estudos em FULLSTACK!
-
-###
+Aqui estarei compartilhando <strong>meus projetos</strong>, e o avanço dos estudos em<strong>FULLSTACK</strong>!
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
