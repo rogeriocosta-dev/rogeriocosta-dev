@@ -1,7 +1,9 @@
 <h1><em>Rogério Costa</em></h1> 
 <em>Desenvolvedor FullStack </em><br>
 <p>Olá, Me Chamo Rogério Costa, tenho 42 anos, atualmente estudo programação, para alcançar uma transição de carreira, sempre gostei da área TECH, trabalho atualmente fora do ramo de tecnologia.
-Estou me capacitando com treinamentos imersivos de desenvolvimento, para em breve<br>candidatar-me em vagas júnior e posteriormente alcançar mais experiência DEV.</p>
+Estou me capacitando com treinamentos imersivos de desenvolvimento, tenho curso técnico em Informática e também sou Design Gráfico, Busco ampliar meus conhecimento na PROGRAMAÇÃO e em breve alcançar meu objetivo,
+com estudos contínuos, mostrar aqui os meus projetos de aprendizado! </p>
+
 <h2><em>Habilidades</em></h2>
 <p align="left">
 
