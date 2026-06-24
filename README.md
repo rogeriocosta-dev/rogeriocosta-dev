@@ -1,7 +1,7 @@
 <h1>Rogério Costa</h1> 
-<em>Desenvolvedor FullStack </em><br>
-<p>Olá, Me Chamo Rogério Costa, tenho 42 anos, atualmente estudo programação, para alcançar uma transição de carreira, sempre gostei da área TECH, trabalho atualmente fora do ramo de tecnologia.
-Estou me capacitando com treinamentos imersivos de desenvolvimento, tenho curso técnico em Informática e também sou Design Gráfico, Busco ampliar meus conhecimento na PROGRAMAÇÃO e em breve alcançar meu objetivo,
+<em>Estudante em CYBERSEGURANÇA 🚀</em><br>
+<p>Olá, Me Chamo Rogério Costa, tenho 43 anos, atualmente estudo programação, para alcançar uma transição de carreira, sempre gostei da área TECH, trabalho atualmente fora do ramo de tecnologia.
+Estou me capacitando com treinamentos imersivos de desenvolvimento, tenho curso técnico em Informática e também sou Design Gráfico, Busco ampliar meus conhecimento na PROGRAMAÇÃO & SEGURANÇA DA INFORMAÇÃO e em breve alcançar meu objetivo,
 com estudos contínuos, mostrando nesse perfil os meus projetos de aprendizado! </p>
 
 <h2><em>Habilidades</em></h2>
