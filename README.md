@@ -1,8 +1,31 @@
 <h1>Rogério Costa</h1> 
-<em>Estudante em CYBERSEGURANÇA 🚀</em><br>
-<p>Olá, Me Chamo Rogério Costa, tenho 43 anos, atualmente estudo programação, para alcançar uma transição de carreira, sempre gostei da área TECH, trabalho atualmente fora do ramo de tecnologia.
-Estou me capacitando com treinamentos imersivos de desenvolvimento, tenho curso técnico em Informática e também sou Design Gráfico, Busco ampliar meus conhecimento na PROGRAMAÇÃO & SEGURANÇA DA INFORMAÇÃO e em breve alcançar meu objetivo,
-com estudos contínuos, mostrando nesse perfil os meus projetos de aprendizado! </p>
+ <p> 
+ # Olá, eu sou o Rogério Costa! 👋
+
+Seja bem-vindo ao meu espaço de laboratórios e projetos técnicos. Sou um profissional de TI e Redes que encontrou sua verdadeira paixão na área de **Cibersegurança**. Atualmente, dedico meu tempo livre para construir laboratórios práticos, entender vulnerabilidades e automatizar rotinas de segurança.
+
+## 🔒 Foco Atual & Certificações
+* 🎓 **Google Cybersecurity Professional Certificate** (andamento)
+* Preparação ativa para a certificação **CompTIA Security+**
+* Estudos focados em Blue Team, análise de logs, redes seguras e hardening de sistemas.
+
+## Tecnologias e Ferramentas
+* **Redes & Infra:** TCP/IP, Roteamento, Firewalls, Wireshark, Linux/Windows Server
+* **Segurança:** SIEM, Análise de Vulnerabilidades, IAM, Criptografia
+* **Automação/Scripts:** Bash, Python (em desenvolvimento)
+
+<!-- 
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial)
+-->
+
+---
+
+📬 **Vamos conversar?**
+* LinkedIn: https://www.linkedin.com/in/rogeriocosta-of?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+ 
+ 
+ </p>
 
 <h2><em>Habilidades</em></h2>
 <p align="left">
