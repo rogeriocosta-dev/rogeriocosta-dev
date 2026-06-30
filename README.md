@@ -5,7 +5,7 @@
 Seja bem-vindo ao meu espaço de laboratórios e projetos técnicos. Sou um profissional de TI e Redes que encontrou sua verdadeira paixão na área de **Cibersegurança**. Atualmente, dedico meu tempo livre para construir laboratórios práticos, entender vulnerabilidades e automatizar rotinas de segurança.
 
 ## 🔒 Foco Atual & Certificações
-* 🎓 **Google Cybersecurity Professional Certificate** (andamento)
+* 🎓 **Google Cybersecurity Professional Certificate** 
 * Preparação ativa para a certificação **CompTIA Security+**
 * Estudos focados em Blue Team, análise de logs, redes seguras e hardening de sistemas.
 
